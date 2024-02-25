@@ -96,6 +96,16 @@ Once all the requirements are satisfied, you can proceed with the following step
 
 **Step 6:** Enjoy!
 
+## ScreenShots
+
+1.Setup
+
+2.Settings
+
+3.Compiler
+
+4.Discord
+
 ## Demostration
 
 1.Setup
@@ -103,4 +113,4 @@ Once all the requirements are satisfied, you can proceed with the following step
 https://github.com/J12C/ProcessWipe/assets/141021768/454cc12f-4b17-4581-8154-3133dd62b859
 
 
-## ScreenShots
+
