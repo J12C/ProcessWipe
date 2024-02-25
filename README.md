@@ -11,7 +11,7 @@
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#demostration">Demostration</a> •
-  <a href="#screen">Screen</a>
+  <a href="#screenshots">ScreenShots</a>
 </p>
 
 
@@ -97,4 +97,10 @@ Once all the requirements are satisfied, you can proceed with the following step
 **Step 6:** Enjoy!
 
 ## Demostration
-    
+
+1.Setup
+
+https://github.com/J12C/ProcessWipe/assets/141021768/454cc12f-4b17-4581-8154-3133dd62b859
+
+
+## ScreenShots
