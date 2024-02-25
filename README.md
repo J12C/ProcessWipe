@@ -104,6 +104,7 @@ Once all the requirements are satisfied, you can proceed with the following step
 
 **2. Compiler:**
 
+<img src="img/compailer.jpg" width="100%" height="100%"/> 
 
 **3. Discord:**
 
