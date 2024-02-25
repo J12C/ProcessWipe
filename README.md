@@ -1,5 +1,5 @@
-<img width="150" align="right" src="img/logo.png"></img>
 # ProcessWipe
+<img width="150" align="right" src="img/logo.png"></img>
 [![License: GPL v2](https://img.shields.io/badge/license-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 ![](https://img.shields.io/github/v/release/J12C/ProcessWipe)
 
