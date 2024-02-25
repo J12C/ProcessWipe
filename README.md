@@ -100,7 +100,7 @@ Once all the requirements are satisfied, you can proceed with the following step
 
 **1. Settings:**
 
-<img src="img/setup2.png" width="100%" height="100%"/> 
+<img src="img/setup2.jpg" width="100%" height="100%"/> 
 
 **2. Compiler:**
 
