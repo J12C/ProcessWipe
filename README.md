@@ -100,6 +100,10 @@ Once all the requirements are satisfied, you can proceed with the following step
 
 **1. Settings:**
 
+<img src="img/show2.png" alt="Imagen" style="box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.9);" />
+
+
+
 **2. Compiler:**
 
 **3. Discord:**
