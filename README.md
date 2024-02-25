@@ -98,15 +98,15 @@ Once all the requirements are satisfied, you can proceed with the following step
 
 ## ScreenShots
 
-**1.Settings:**
+**1. Settings:**
 
-**2.Compiler:**
+**2. Compiler:**
 
-**3.Discord:**
+**3. Discord:**
 
 ## Demostration
 
-**1.Setup**
+**1. Setup**
 
 https://github.com/J12C/ProcessWipe/assets/141021768/454cc12f-4b17-4581-8154-3133dd62b859
 
