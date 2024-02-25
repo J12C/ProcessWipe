@@ -9,13 +9,21 @@ import tempfile
 import requests
 import pyautogui
 
+#Thoose are examples used in testing (prset)
+
 anio_personalizado = 2024
 mes_personalizado = 2
 dia_personalizado = 17
 
+# Empty function (presset)
+
 time.sleep()
 
+#Thoose are examples used in testing (prset)
+
 webhook_url = ""
+
+#Thoose are examples used in testing (prset)
 
 nombre_del_proceso = "test.exe"
 
