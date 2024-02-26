@@ -50,26 +50,32 @@
 ```shell
 $ git clone https://github.com/J12C/ProcessWipe.git
 ```
+
+**Step 2**: Get into the folder
+
+```shell
+$ cd ProcessWipe
+```
+
+**Step 3**: Install Python
+
+```shell
+$ install_python.bat
+```
       
-**Step 2**: Install some libraries
+**Step 4**: Install some libraries
 
 ```shell
 $ pip3 install colorama psutil requests pyautogui
 ```
 
-**Step 3**: Install PyInstaller
+**Step 5**: Install PyInstaller
 
 ```shell
 $ pip3 install pyinstaller
 ```
 
-**Step 4**: Get into the folder
-
-```shell
-$ cd ProcesWipe
-```
-
-**Step 5**: Run it!
+**Step 6**: Run it!
 
 ```shell
 $ start.bat
